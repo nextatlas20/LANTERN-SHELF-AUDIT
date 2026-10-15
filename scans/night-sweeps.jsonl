@@ -1,0 +1,14 @@
+{"item_id":"BK-104","scanned_at":"2040-09-18T04:20Z","observed_zone":"NORTH","observed_shelf":12,"damaged":false,"pass":1}
+{"item_id":"BK-217","scanned_at":"2040-09-18T05:05Z","observed_zone":"EAST","observed_shelf":4,"damaged":true,"pass":2}
+{"item_id":"BK-330","scanned_at":"2040-09-18T06:10Z","observed_zone":"SOUTH","observed_shelf":9,"damaged":false,"pass":1}
+not-json
+{"item_id":"BK-451","scanned_at":"2040-09-18T05:40Z","observed_zone":"WEST","observed_shelf":20,"damaged":false,"pass":1}
+{"item_id":"BK-451","scanned_at":"2040-09-18T05:40Z","observed_zone":"EAST","observed_shelf":20,"damaged":false,"pass":3}
+{"item_id":"BK-508","scanned_at":"2040-09-18T03:30Z","observed_zone":"NORTH","observed_shelf":8,"damaged":false,"pass":1}
+{"item_id":"BK-508","scanned_at":"2040-09-18T05:50Z","observed_zone":"NORTH","observed_shelf":10,"damaged":false,"pass":1}
+{"item_id":"BK-699","scanned_at":"2040-09-18T05:15Z","observed_zone":"EAST","observed_shelf":13,"damaged":false,"pass":2}
+{"item_id":"BK-104","scanned_at":"2040-09-18T05:55Z","observed_zone":"NORTH","observed_shelf":13,"damaged":false,"pass":4}
+{"item_id":"BK-217","scanned_at":"2040-09-18T05:58Z","observed_zone":"EAST","observed_shelf":4,"damaged":"false","pass":5}
+{"item_id":"BK-999","scanned_at":"2040-09-18T05:59Z","observed_zone":"WEST","observed_shelf":1,"damaged":false,"pass":1}
+{"item_id":"BK-699","scanned_at":"2040-09-18T05:15Z","observed_zone":"EAST","observed_shelf":14,"damaged":false,"pass":2}
+{"item_id":"BK-104","scanned_at":"2040-02-30T05:59Z","observed_zone":"NORTH","observed_shelf":12,"damaged":false,"pass":9}
